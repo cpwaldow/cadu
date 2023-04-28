@@ -29,3 +29,20 @@ a:hover {
   color: darkorange;
   text-decoration: underline;
 }
+
+img {
+  border-radius: 100%;
+  width: 400px;
+  display: block;
+  margin: 150px auto;
+}
+
+p {
+  color: #fff;
+  width: 900px;
+  text-align: center;
+  margin: 0 auto;
+  font-size: 30px;
+  line-height: 40px;
+  letter-spacing: 2px;
+}
